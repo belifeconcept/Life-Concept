@@ -933,6 +933,9 @@ service section css
     opacity: 1;
 }
 
+section.work{
+    min-height: 650px;
+}
 
 
 
