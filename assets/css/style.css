@@ -1,12 +1,12 @@
+/*Custom */
+.produto{
+    min-height: 425px;
+    border: 1px solid #f0f0f0;
+    padding: 5px;
+    margin: 10px 5px;
+}
 
-
-/*
-Author: Bootstrapthemes
-Author URI: http://bootstrapthemes.co
-*/
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+/* Template */
 html,
 body {
     background-color: #fff;
