@@ -5,6 +5,19 @@
     padding: 5px;
     margin: 10px 5px;
 }
+.descricao{
+    padding: 10px;
+}
+.descricao h3{
+    margin-bottom: 10px;
+}
+
+.planner{
+    border: 1px solid #f0f0f0;
+    padding: 5px;
+    margin: 10px 5px;
+}
+
 
 /* Template */
 html,
