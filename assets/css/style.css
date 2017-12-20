@@ -11,7 +11,18 @@
 .descricao h3{
     margin-bottom: 10px;
 }
-
+.imagem{
+    position: relative;
+}
+.preco{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.5);
+}
+.preco span{
+    font-size: 21px;
+}
 .planner{
     border: 1px solid #f0f0f0;
     padding: 5px;
