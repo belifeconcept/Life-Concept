@@ -40,7 +40,7 @@ body {
     padding: 0;
     margin-left: 0;
     margin-right: 0;
-    font-family: 'montserratlight';
+    font-family: 'RalewayLight';
 }
 .preloader {
     position: fixed;
@@ -176,22 +176,22 @@ h5 {
 }
 h1 {
     font-size: 3.75rem;
-    font-family: 'montserrathairline';
+    font-family: 'Raleway';
 }
 h2 {
     font-size:3rem;
     line-height: 3rem;
-    font-family: 'montserratbold';
+    font-family: 'RalewayBold';
 }
 h3 {
     font-size:1.875rem;
     line-height: 2.5rem;
-    font-family: 'montserratlight';
+    font-family: 'RalewayLight';
 }
 h4 {
     font-size: 2.5rem;
     line-height: 2.5rem;
-    font-family: 'montserratbold';
+    font-family: 'RalewayBold';
 }
 h5 {
     font-size: 1.125rem;
@@ -728,7 +728,7 @@ service section css
     color:#fff;
 }
 .main_contact label{
-    font-family: 'montserratlight';
+    font-family: 'RalewayLight';
     font-size:1.125rem;
     font-weight: 300;
     margin-bottom:10px;
@@ -918,7 +918,7 @@ service section css
     margin: 10px 50px;
 }
 .main_events_area .single_events span.e_price{
-    font-family: 'montserratbold';
+    font-family: 'RalewayBold';
     font-size:2.5rem;
 }
 .main_events_area .single_events span.e_text1{
