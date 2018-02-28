@@ -1,4 +1,5 @@
 /*Custom */
+  
 .produto{
     min-height: 425px;
     border: 1px solid #f0f0f0;
@@ -564,7 +565,7 @@ input::-ms-input-placeholder {
     padding: 0px !important;   
 }
 .navbar-brand>img {
-    max-width: 100%;
+    max-width: 50%;
 }
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus{
     background-color:transparent;
