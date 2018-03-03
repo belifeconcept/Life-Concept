@@ -804,7 +804,7 @@ service section css
     margin-left:10px;
 }
 .contact_socail a:hover i{
-    background: #ffe1bd;
+    background: #bcd9d9;
     color:#fff;
 }
 
@@ -825,11 +825,11 @@ service section css
 }
 .copyright_text p i{
     padding:0px 10px;
-    color:#ffcb93;
+    color:#bcd9d9;
 }
 .copyright_text p a{
     padding:0px 10px;
-    color:#ffcb93;
+    color:#bcd9d9;
 }
 
 
