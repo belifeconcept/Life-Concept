@@ -1,5 +1,8 @@
 /*Custom */
-  
+#galleria{
+    height:500px
+}
+
 .produto{
     min-height: 425px;
     border: 1px solid #f0f0f0;
@@ -267,11 +270,7 @@ section .subtitle-half h5 {
     font-weight: 100;
     font-size: 17px;
 }
-ul{
-    margin:0;
-    padding:0;
-    list-style:none;
-}
+
 
 .heading {
     margin-bottom: 4rem;
@@ -383,10 +382,10 @@ Button
 
 }
 .btn:hover {
-    background-color:#ffcb93;
+    background-color:#bcd9d9;
     color: #000;
     text-decoration: none;
-    border:1px solid #ffcb93;
+    border:1px solid #bcd9d9;
 }
 .btn-default {
     color: #333;
