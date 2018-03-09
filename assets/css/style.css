@@ -840,7 +840,7 @@ service section css
     border-radius: 15px;
     opacity: .3;
     position: fixed;
-    bottom: 20px;
+    bottom: 100px;
     right: 25px;
     color: #fff;
     cursor: pointer;
