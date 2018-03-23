@@ -1,4 +1,8 @@
 /*Custom */
+#gallery .imagem{
+    padding: 0;
+    margin: 0;
+}
 #galleria{
     height:500px
 }
