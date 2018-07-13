@@ -3410,3 +3410,9 @@ body {
 .cid-qXDPSnjlFE .media-container-row .mbr-text {
   color: #af8274;
 }
+
+#footer7-4i{
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
