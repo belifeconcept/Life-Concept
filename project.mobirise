@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "life concept",
-    "currentPage": "index.html",
+    "currentPage": "contato.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,7 +43,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 183,
+    "uniqCompNum": 185,
     "versionPublish": "4.7.6",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/logo-life-100x60-1.png",
@@ -495,9 +495,26 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>\n                     e-mail:</b></p><p>contato@lifeconcept.com.br</p><p><br></p><p><b>telefone:</b></p><p>16 9 9340-7636</p><p><br></p><p><b>skype:&nbsp;</b></p><p>danigmde</p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>\n                     instagram:&nbsp;</b></p><p><a href=\"http://instagram.com/lifeconcept.com.br\" target=\"_blank\">@lifeconcept.com.br</a></p><p><br></p><p><b>facebook:</b></p><p><a href=\"fb.com/lifeconcept.com.br\" target=\"_blank\">fb.com/lifeconcept.com.br</a></p><p><br></p><p><b>são carlos, sp</b></p><p>não temos escritório, mas adoramos tomar café ♥</p></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>\n                     e-mail:</b></p><p>contato@lifeconcept.com.br</p><p><br></p><p><b>telefone:</b></p><p>16 9 9340-7636</p><p><br></p><p><b>skype:&nbsp;</b></p><p>danigmde</p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>\n                     instagram:&nbsp;</b></p><p><a href=\"http://instagram.com/lifeconcept.com.br\" target=\"_blank\">@lifeconcept.com.br</a></p><p><br></p><p><b>facebook:</b></p><p><a href=\"fb.com/lifeconcept.com.br\" target=\"_blank\">fb.com/lifeconcept.com.br</a></p><p><br></p><p><b>são carlos, sp</b></p><p>não temos escritório, mas adoramos tomar café ♥</p></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qUONgyOpK1",
           "_anchor": "content3-1x",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success-outline\" href=\"https://goo.gl/forms/7AXF3uWdCwnMPoeZ2\" target=\"_blank\">quero um orçamento</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content8-54",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "qYKro17fHH",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -2106,11 +2123,26 @@
           "_params": {}
         },
         {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success-outline\" href=\"https://goo.gl/forms/7AXF3uWdCwnMPoeZ2\" target=\"_blank\">quero um orçamento</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qYKqPW9t04",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content8-53"
+        },
+        {
           "_params": {
             "token": "6353104794.727bfe1.4653f1eccce04f008eb4dbbda3f9febe",
             "showTitle": true,
             "layoutGridRadio": true,
-            "imagesPerRowGrid": "3",
+            "imagesPerRowGrid": "4",
             "rows": "1",
             "showMoreButton": true,
             "layoutSliderRadio": false,
